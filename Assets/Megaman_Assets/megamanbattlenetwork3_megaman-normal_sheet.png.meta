@@ -1,0 +1,636 @@
+fileFormatVersion: 2
+guid: a83af8514f61e9448a0cf0a9457af67e
+timeCreated: 1481696452
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: megamanbattlenetwork3_megaman-normal_sheet_0
+    21300002: megamanbattlenetwork3_megaman-normal_sheet_1
+    21300004: megamanbattlenetwork3_megaman-normal_sheet_2
+    21300006: megamanbattlenetwork3_megaman-normal_sheet_3
+    21300008: megamanbattlenetwork3_megaman-normal_sheet_4
+    21300010: megamanbattlenetwork3_megaman-normal_sheet_5
+    21300012: megamanbattlenetwork3_megaman-normal_sheet_6
+    21300014: megamanbattlenetwork3_megaman-normal_sheet_7
+    21300016: megamanbattlenetwork3_megaman-normal_sheet_8
+    21300018: megamanbattlenetwork3_megaman-normal_sheet_9
+    21300020: megamanbattlenetwork3_megaman-normal_sheet_10
+    21300022: megamanbattlenetwork3_megaman-normal_sheet_11
+    21300024: megamanbattlenetwork3_megaman-normal_sheet_12
+    21300026: megamanbattlenetwork3_megaman-normal_sheet_13
+    21300028: megamanbattlenetwork3_megaman-normal_sheet_14
+    21300030: megamanbattlenetwork3_megaman-normal_sheet_15
+    21300032: megamanbattlenetwork3_megaman-normal_sheet_16
+    21300034: megamanbattlenetwork3_megaman-normal_sheet_17
+    21300036: megamanbattlenetwork3_megaman-normal_sheet_18
+    21300038: megamanbattlenetwork3_megaman-normal_sheet_19
+    21300040: megamanbattlenetwork3_megaman-normal_sheet_20
+    21300042: megamanbattlenetwork3_megaman-normal_sheet_21
+    21300044: megamanbattlenetwork3_megaman-normal_sheet_22
+    21300046: megamanbattlenetwork3_megaman-normal_sheet_23
+    21300048: megamanbattlenetwork3_megaman-normal_sheet_24
+    21300050: megamanbattlenetwork3_megaman-normal_sheet_25
+    21300052: megamanbattlenetwork3_megaman-normal_sheet_26
+    21300054: megamanbattlenetwork3_megaman-normal_sheet_27
+    21300056: megamanbattlenetwork3_megaman-normal_sheet_28
+    21300058: megamanbattlenetwork3_megaman-normal_sheet_29
+    21300060: megamanbattlenetwork3_megaman-normal_sheet_30
+    21300062: megamanbattlenetwork3_megaman-normal_sheet_31
+    21300064: megamanbattlenetwork3_megaman-normal_sheet_32
+    21300066: megamanbattlenetwork3_megaman-normal_sheet_33
+    21300068: megamanbattlenetwork3_megaman-normal_sheet_34
+    21300070: megamanbattlenetwork3_megaman-normal_sheet_35
+    21300072: megamanbattlenetwork3_megaman-normal_sheet_36
+    21300074: megamanbattlenetwork3_megaman-normal_sheet_37
+    21300076: megamanbattlenetwork3_megaman-normal_sheet_38
+    21300078: megamanbattlenetwork3_megaman-normal_sheet_39
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: megamanbattlenetwork3_megaman-normal_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 350
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanbattlenetwork3_megaman-normal_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 350
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanbattlenetwork3_megaman-normal_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 350
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanbattlenetwork3_megaman-normal_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 350
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanbattlenetwork3_megaman-normal_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 350
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanbattlenetwork3_megaman-normal_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 300
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanbattlenetwork3_megaman-normal_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 300
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanbattlenetwork3_megaman-normal_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 300
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanbattlenetwork3_megaman-normal_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 300
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanbattlenetwork3_megaman-normal_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 300
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanbattlenetwork3_megaman-normal_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 250
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanbattlenetwork3_megaman-normal_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 250
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanbattlenetwork3_megaman-normal_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 250
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanbattlenetwork3_megaman-normal_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 250
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanbattlenetwork3_megaman-normal_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 250
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanbattlenetwork3_megaman-normal_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 200
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanbattlenetwork3_megaman-normal_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 200
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanbattlenetwork3_megaman-normal_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 200
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanbattlenetwork3_megaman-normal_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 200
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanbattlenetwork3_megaman-normal_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 200
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanbattlenetwork3_megaman-normal_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 150
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanbattlenetwork3_megaman-normal_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 150
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanbattlenetwork3_megaman-normal_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 150
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanbattlenetwork3_megaman-normal_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 150
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanbattlenetwork3_megaman-normal_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 150
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanbattlenetwork3_megaman-normal_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanbattlenetwork3_megaman-normal_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 100
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanbattlenetwork3_megaman-normal_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 100
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanbattlenetwork3_megaman-normal_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 100
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanbattlenetwork3_megaman-normal_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 100
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanbattlenetwork3_megaman-normal_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanbattlenetwork3_megaman-normal_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 50
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanbattlenetwork3_megaman-normal_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 50
+        width: 69
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanbattlenetwork3_megaman-normal_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 50
+        width: 69
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanbattlenetwork3_megaman-normal_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 50
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanbattlenetwork3_megaman-normal_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanbattlenetwork3_megaman-normal_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanbattlenetwork3_megaman-normal_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanbattlenetwork3_megaman-normal_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanbattlenetwork3_megaman-normal_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 0
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
